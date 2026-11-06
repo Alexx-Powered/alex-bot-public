@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": {
+    "README.md": "5eea643942614abdfada9d95ead0ac63cc542931211c811b1a597cbfc425ca92",
+    "codex-qq-plugin/public/logo.png": "271cdefa0ae49c609ad7899c615ada5096d6186e8dab78d8b64f6e58ae246c49",
+    "docs/images/console.webp": "c1fdb6cd250e7c8d1e47d55b3c3947a39d4e1e296f17d53a5189c96af9dfcfcb",
+    "docs/images/forecast-video.webp": "e10ecab81db6ce89d922335be0ba95b19b1b621b969cda0e73dda995da5dea45",
+    "docs/images/help.webp": "fe62dc27e5081ef88a12985ad5181f67e51a222f810d41befd93adc5a6ff78a4",
+    "docs/images/providers.webp": "8bbb6c8e6e16f60130a247bc1417a44f20a893fb6337dfb6658d250b30fd64a2",
+    "docs/images/weather-summary.webp": "b256e1bcbe5610ae86c99f7feb960d791a47a0260d7cd6b93c19d3a6e24e0a8e",
+    "docs/images/weather.webp": "23fe55bbd4a9c202b6e676e4a05ae19fb7cdc9c0eaacc41803b54c64d165cea5",
+    "docs/public-assets.md": "d0a706ef768aa930486bb47b68d4fc652b39fe53f27e20b854bb61a75dec8f89"
+  }
+}
