@@ -21,15 +21,27 @@
 
 将天气摘要、空气质量和适合户外活动的时段放在一起，下方继续展示逐小时曲线。户外指数使用项目自定义规则。
 
-<a href="docs/images/weather.webp"><img src="docs/images/weather-summary.webp" width="640" alt="广州天气摘要：温度范围、降水、风、湿度与户外指数"></a>
+<img src="docs/images/weather-summary.webp" width="640" alt="广州天气摘要：温度范围、降水、风、湿度与户外指数">
 
-[查看完整天气图](docs/images/weather.webp)
+<details>
+<summary>展开查看完整天气图与逐小时曲线</summary>
+
+<img src="docs/images/weather.webp" width="960" alt="完整广州两日天气图，含温度、PM2.5、降水与云量曲线">
+
+</details>
 
 ### 24 / 48 小时动态预报
 
 在 QQ 中直接播放视频，地图上显示地名、预报类型、色阶和时间轴。云量、温度、降水优先使用 ECMWF IFS；PM2.5 使用 ECMWF/CAMS。预报云图与历史卫星观测分开查询。
 
-<img src="docs/images/forecast-video.webp" width="640" alt="广东降水预报视频实帧，显示地市边界、水域和北京时间轴">
+<img src="docs/images/forecast-video.gif" width="640" alt="广东 24 小时降水预报动态预览，随时间轴播放完整视频时段">
+
+<details>
+<summary>展开查看清晰原帧</summary>
+
+<img src="docs/images/forecast-video.webp" width="1080" alt="广东降水预报视频的完整原帧，显示地市边界、水域、色阶和北京时间轴">
+
+</details>
 
 ### AI 服务状态
 
@@ -37,11 +49,55 @@
 
 <img src="docs/images/providers.webp" width="960" alt="OpenAI、DeepSeek、Gemini、Claude、Kimi 五家服务状态卡片节选">
 
+以下为 **2026-11-06 上午的官方状态快照**。OpenAI 展示当天的真实故障：ChatGPT Work、Dots 与 Codex Web 受影响，已采取缓解措施、正在观察恢复；[官方事件记录](https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R)。图片不代表阅读时的实时状态。
+
+<details>
+<summary>展开 OpenAI：服务异常与处理进展</summary>
+
+<img src="docs/images/provider-openai.webp" width="800" alt="OpenAI 完整故障报告：受影响服务、错误率升高说明及修复后观察进展">
+
+</details>
+
+<details>
+<summary>展开 DeepSeek 完整状态图</summary>
+
+<img src="docs/images/provider-deepseek.webp" width="800" alt="DeepSeek 完整服务状态图">
+
+</details>
+
+<details>
+<summary>展开 Gemini 完整状态图</summary>
+
+<img src="docs/images/provider-gemini.webp" width="800" alt="Gemini 完整服务状态图">
+
+</details>
+
+<details>
+<summary>展开 Claude 完整状态图</summary>
+
+<img src="docs/images/provider-claude.webp" width="800" alt="Claude 完整服务状态图">
+
+</details>
+
+<details>
+<summary>展开 Kimi 完整状态图</summary>
+
+<img src="docs/images/provider-kimi.webp" width="800" alt="Kimi 完整服务状态图">
+
+</details>
+
 ### 控制台
 
 选择群聊即可修改功能与定时推送；在任意页面增删改唤醒词都会同步到全局，各群独立选择启用哪些词。
 
 <img src="docs/images/console.webp" width="1040" alt="控制台演示：群功能分栏、独立开关和两个 07:30 定时订阅">
+
+<details>
+<summary>展开查看完整控制台</summary>
+
+<img src="docs/images/console.webp" width="1440" alt="完整控制台演示，含逐群功能、唤醒词和定时推送配置">
+
+</details>
 
 <details>
 <summary>展开查看自动生成的帮助图</summary>

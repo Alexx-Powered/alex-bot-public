@@ -1,14 +1,20 @@
 {
   "version": 1,
   "files": {
-    "README.md": "5eea643942614abdfada9d95ead0ac63cc542931211c811b1a597cbfc425ca92",
+    "README.md": "cf7115f539d241b73a04b1eb3d7caa76916af1b3d7c60e2c1a2b1accdffd2e7a",
     "codex-qq-plugin/public/logo.png": "271cdefa0ae49c609ad7899c615ada5096d6186e8dab78d8b64f6e58ae246c49",
     "docs/images/console.webp": "c1fdb6cd250e7c8d1e47d55b3c3947a39d4e1e296f17d53a5189c96af9dfcfcb",
+    "docs/images/forecast-video.gif": "db06d1a85e13ed7c4aa9572ed03e9d319ede7858e8bba8b8c438d39983dccc6c",
     "docs/images/forecast-video.webp": "e10ecab81db6ce89d922335be0ba95b19b1b621b969cda0e73dda995da5dea45",
     "docs/images/help.webp": "fe62dc27e5081ef88a12985ad5181f67e51a222f810d41befd93adc5a6ff78a4",
-    "docs/images/providers.webp": "8bbb6c8e6e16f60130a247bc1417a44f20a893fb6337dfb6658d250b30fd64a2",
+    "docs/images/provider-claude.webp": "847b89d5d635dbc7f0bf9ecf05245cbf5dac9b13424094ecf334adefa71f0f59",
+    "docs/images/provider-deepseek.webp": "e36ae174e263fa10398d0301d7bdb086a241d310d8244058209528d32f5aa615",
+    "docs/images/provider-gemini.webp": "d870e3323d6ef3663886f861f6ccf52519dd0456e9ed9aa54f033d64b26c4e6b",
+    "docs/images/provider-kimi.webp": "bda996defa6d7570ff0f53abeae8f263584b2cb33d74e5aeb08850b0b4393632",
+    "docs/images/provider-openai.webp": "29a15e25bbbd663856d192a8bc0f097ef2bc413acaff9b6db2c5bb8cb0f2359f",
+    "docs/images/providers.webp": "6bf01bb812f8b2acee80aaa54018efa81c481fc5cb5a11ce1a1cad2818c5929f",
     "docs/images/weather-summary.webp": "b256e1bcbe5610ae86c99f7feb960d791a47a0260d7cd6b93c19d3a6e24e0a8e",
     "docs/images/weather.webp": "23fe55bbd4a9c202b6e676e4a05ae19fb7cdc9c0eaacc41803b54c64d165cea5",
-    "docs/public-assets.md": "d0a706ef768aa930486bb47b68d4fc652b39fe53f27e20b854bb61a75dec8f89"
+    "docs/public-assets.md": "aae8ef169ebf6d898507a66e1fcb4b5f6f467ffb363b5d79df58c5e5d603a2a4"
   }
 }
