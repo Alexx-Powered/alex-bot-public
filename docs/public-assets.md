@@ -5,11 +5,14 @@
 | 展示图 | 样例说明 |
 | --- | --- |
 | 广州天气 | 2026-11-03 两日天气与户外指数；摘要下可直接展开完整曲线 |
+| 武功山徒步天气 | 2026-11-07 23:06（北京时间）查询的三日沿线客栈方案；摘要下展开完整温度、云量、降水与夜间住宿图 |
 | 广东降水 GIF 与原帧 | 2026-11-04 生成的实际预报视频；GIF 保留整个视频时段，具体有效时间见画面，可展开清晰原帧 |
 | 五家 AI 服务状态 | 2026-11-06 10:45（北京时间）官方查询快照；主卡片节选下可逐家展开完整报告 |
 | 控制台、帮助图 | 演示群名与开关配置，不含真实成员或账户凭据 |
 
 天气与空气数据来自 [ECMWF](https://www.ecmwf.int/)、[CAMS](https://atmosphere.copernicus.eu/) 与 [Open-Meteo](https://open-meteo.com/)。视频底图所用资料包括 [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/)、[geoBoundaries](https://www.geoboundaries.org/)、[CTAmap / cn-atlas](https://github.com/BarbarossaWang/cn-atlas) 及相关政府地图资料。
+
+徒步样例的逐日位置依据[武功山三日客栈参考](https://travelnews.qunar.com/qa_strategy/wugongshan-three-day-through-hiking-guide)，地名坐标由 [OpenStreetMap](https://www.openstreetmap.org/copyright) 提供。08—18 时按路线顺序示意移动，不是导航或实测轨迹；客栈位置、季节营业和房态仍需出发前确认。
 
 状态卡中的品牌标志来自对应提供商的官方网站或官方状态页，仅用于识别所查询的服务：OpenAI、DeepSeek、Gemini、Claude、Kimi。
 
